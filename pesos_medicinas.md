@@ -12,9 +12,17 @@
 
 600 Metronidazol de 500 mg de AARNEXT pesan 4500 gramos que son 7.5 gramos cada uno.
 
+
 otro bulto
 
 1000 Enalapril de 20 mg de COLIN (llamado el chiquito) pesan 2095 gramos que son 2.1 gramos cada uno.
 
+500 hidroclorotiazida de 50 mg de AFRICHAEL pesan 1430 gramos que son 2.86 gramos
+
 300 Metoclopramida de 10 mg de ARRNEXT pesan 840 gramos que son 2.8 gramos cada uno
 
+450 Acido Folico de 5 mg de HINDU pesan 945 gramos que son 2,1 gramos cada uno.
+
+400 captopril de 25 mg de Colin pesan 840 gramos que son 2.1 gramos cada uno
+
+400 diclopara de 550 mg de AFRICHAEL pesan 3170 gramos que son 7.92 gramos cada uno.

@@ -55,4 +55,18 @@
 
 
 # otro bulto
+1. 120 truabin de BALAXI son 4560 gramos que son 38 gramos cada uno.
+
+2. 300 Diclofenaco Potasico de 100 mg de AARNEXT son 3330 gramos que son 11,1 gramos cada uno.
+
+3. 500 loratadinas de 10 mg de COLIN pesan 1030 gramos que son 2.1 gramos cada uno.
+
+4. 500 enalapril de 20 mg de collin pesan  1040 gramos que son 2.1 gramos cada uno.
+
+5. 400 nifedipino de 20 mg de AARNEXT pesan 1070 gramos que son 2.67 gramos cada uno
+
+6. 200 glibenclamidas de 5 mg de AFRICHAEL pesan 560 gramos que son 2,8 gramos cada uno
+
+7. 200 gravinol de 50 mg de CAPLIN POINT pesan 540 gramos que son 2.7 gramos cada uno
+
 

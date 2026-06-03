@@ -13,7 +13,7 @@
 7. 600 Metronidazol de 500 mg de AARNEXT pesan 4500 gramos que son 7.5 gramos cada uno.
 
 
-#otro bulto
+# otro bulto
 
 1. 1000 Enalapril de 20 mg de COLIN (llamado el chiquito) pesan 2095 gramos que son 2.1 gramos cada uno.
 
@@ -27,7 +27,7 @@
 
 6. 400 diclopara de 550 mg de AFRICHAEL pesan 3170 gramos que son 7.92 gramos cada uno.
 
-#otro bulto
+# otro bulto
 
 1. 100 omeprazol de 20 mg de HINDU pesan 615 gramos que son 6,2 gramos cada uno.
 
@@ -54,5 +54,5 @@
 12. 100 fluconazol son 100 gramos que son 1 gramos cada uno.
 
 
-#otro bulto
+# otro bulto
 

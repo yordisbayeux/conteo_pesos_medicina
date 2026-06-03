@@ -65,6 +65,13 @@
 
 5. 400 nifedipino de 20 mg de AARNEXT pesan 1070 gramos que son 2.67 gramos cada uno
 
+# otro bulto
+1. 350 hidroclorotiazida de 25 mg de BALAXI pesan
+
+2. 300 amlodipino de 10 mg de BERYL pesan
+
+3. 290 ciprofloxacino de 500 mg de AFRICHAEL pesan  
+
 6. 200 glibenclamidas de 5 mg de AFRICHAEL pesan 560 gramos que son 2,8 gramos cada uno
 
 7. 200 gravinol de 50 mg de CAPLIN POINT pesan 540 gramos que son 2.7 gramos cada uno

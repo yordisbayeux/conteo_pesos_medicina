@@ -1,3 +1,5 @@
+# Bulto 1
+
 1. 450 Back Up plan de balaxi pesan 755 gramos que son 1,68 gramos cada uno
 
 2. 100 Fluconazol de AARNEXT pesan 105 gramos que son 1.02 gramos cada uno
@@ -13,7 +15,7 @@
 7. 600 Metronidazol de 500 mg de AARNEXT pesan 4500 gramos que son 7.5 gramos cada uno.
 
 
-# otro bulto
+# Bulto 2
 
 1. 1000 Enalapril de 20 mg de COLIN (llamado el chiquito) pesan 2095 gramos que son 2.1 gramos cada uno.
 
@@ -27,7 +29,7 @@
 
 6. 400 diclopara de 550 mg de AFRICHAEL pesan 3170 gramos que son 7.92 gramos cada uno.
 
-# otro bulto
+# Bulto 3
 
 1. 100 omeprazol de 20 mg de HINDU pesan 615 gramos que son 6,2 gramos cada uno.
 
@@ -54,7 +56,7 @@
 12. 100 fluconazol son 100 gramos que son 1 gramos cada uno.
 
 
-# otro bulto
+# Bulto 4
 1. 120 truabin de BALAXI son 4560 gramos que son 38 gramos cada uno.
 
 2. 300 Diclofenaco Potasico de 100 mg de AARNEXT son 3330 gramos que son 11,1 gramos cada uno.
@@ -65,7 +67,7 @@
 
 5. 400 nifedipino de 20 mg de AARNEXT pesan 1070 gramos que son 2.67 gramos cada uno
 
-# otro bulto
+# Bulto 5
 1. 350 hidroclorotiazida de 25 mg de BALAXI pesan
 
 2. 300 amlodipino de 10 mg de BERYL pesan
@@ -76,4 +78,12 @@
 
 7. 200 gravinol de 50 mg de CAPLIN POINT pesan 540 gramos que son 2.7 gramos cada uno
 
+# otro bulto
 
+1. 230 diclopara de 500 mg de BALAXI pesan
+
+2. 290 Ciprofloxacino de 500 mg de AFRICHAEL pesan
+
+3. 35 hidroclorotiazida de 25 mg BALAXI pesan
+
+4. 
